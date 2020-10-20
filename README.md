@@ -4,7 +4,7 @@ Example of Basic Auth with NGINX
 To run the basic-auth example of nginx do:
 
 ```zsh
-git clone https://github.com/serafss2/nginx-basic-auth
+git clone https://github.com/serafdev/nginx-basic-auth
 cd nginx-basic-auth
 docker-compose up -d
 ```
